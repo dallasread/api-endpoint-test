@@ -1,0 +1,24 @@
+{
+  "name": "api-endpoint-test",
+  "version": "1.0.0",
+  "description": "Test your API endpoints with ease!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallasread/api-endpoint-test.git"
+  },
+  "keywords": [
+    "api",
+    "endpoint",
+    "test"
+  ],
+  "author": "Dallas Read",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dallasread/api-endpoint-test/issues"
+  },
+  "homepage": "https://github.com/dallasread/api-endpoint-test#readme"
+}
